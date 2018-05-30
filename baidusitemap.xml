@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/js-iframe.html</loc>
+    <lastmod>2018-05-30T14:39:13.108Z</lastmod>
+    <data>
+        <display>
+        <title>停止iframe里的视频音乐播放</title>
+        <pubTime>2018-05-30T06:24:09.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/hello-world.html</loc>
+    <lastmod>2018-05-30T13:49:07.747Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-05-29T03:02:07.880Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
